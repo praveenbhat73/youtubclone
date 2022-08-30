@@ -45,8 +45,8 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 ### `npm install @mui/material @emotion/react @emotion/styled` use command to install 
 
-#Rapid Api Link:https://rapidapi.com/
+Rapid Api Link:https://rapidapi.com/
 
-#Youtube V3 API IS USED..
+Youtube v3 API IS USED..
 
-#RAPID API CLIENT EXTENSION IS USED TO GET API REQUEST AND JSON DATA
+RAPID API CLIENT EXTENSION IS USED TO GET API REQUEST AND JSON DATA:-https://rapidapi.com/products/api-design/   Can be Downloaded in VSCODE Extension 
