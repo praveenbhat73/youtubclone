@@ -48,6 +48,8 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 Rapid Api Link:https://rapidapi.com/
 
 RAPID API CLIENT EXTENSION IS USED TO GET API REQUEST AND JSON DATA:-https://rapidapi.com/products/api-design/   Can be Downloaded in VSCODE Extension 
+
 Axios Component for React with child function callback. This is intended to allow in render async requests.
+
 ### `npm i react-axios` Used for API async requests
 
