@@ -39,8 +39,9 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-RAPID API AND MATERIAL UI IS USED 
-Link Material UI:- https://mui.com/ 
-npm install @mui/material @emotion/react @emotion/styled use command to install 
-Rapid Api Link:https://rapidapi.com/
-Youtube V3 API IS USED..
+#RAPID API AND MATERIAL UI IS USED 
+#Link Material UI:- https://mui.com/ 
+#npm install @mui/material @emotion/react @emotion/styled use command to install 
+#Rapid Api Link:https://rapidapi.com/
+#Youtube V3 API IS USED..
+#RAPID API CLIENT EXTENSION IS USED TO GET API REQUEST AND JSON DATA
