@@ -10,10 +10,12 @@ const Loader = () =>  {
       <span style={{color:'white' ,fontSize:'30px' ,textTransform:'uppercase'}}>
     { 
       searchTerm?
-      (<h1>Searching Results for {searchTerm}</h1>)
+      (<h1 style={{
+         fontSize:'25px' ,color:'gray',fontWeight:'700'}}>
+       Searching Results for {searchTerm}</h1>)
       :
       (
-        <h1>Loading.....</h1>
+        <h1 style={{fontSize:'15px' ,color:'gray'}}>Loading.....</h1>
       )
   } 
     </span>
